@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #dcdcdc;
+}
+
+.brand-name {
+  background-color: blueviolet;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px;
+}
+.brand-name:hover {
+  text-decoration: none;
+  color: #fff;
+  background-color: purple;
+}
+
+.home-link {
+  background-color: blueviolet;
+  border-radius: 5px;
+  color: #fff;
+  margin-right: 20px;
+  padding: 5px;
+  padding-top: 5px;
+}
+
+.post-link {
+  background-color: blueviolet;
+  border-radius: 5px;
+  color: #fff;
+  padding: 8px;
+  padding-top: 5px;
+}
+
+.home-link:hover {
+  text-decoration: none;
+  color: #fff;
+  background-color: purple;
+}
+
+.post-link:hover {
+  text-decoration: none;
+  color: #fff;
+  background-color: purple;
+}
+
+.add-post {
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 5px;
+  color: #fff;
+  padding: 8px;
+  padding-top: 5px;
+}
+.add-post:hover {
+  color: #fff;
+  background-color: purple;
+}
+/* 
+.add-post:after {
+  color: #fff;
+  background-color: purple;
+} */
+
+.like-button {
+  background-color: blueviolet;
+  border-radius: 5px;
+  color: #fff;
+  margin-right: 20px;
+  padding: 5px;
+  padding-top: 5px;
+  border: blueviolet;
+}
+
+.like-button:hover {
+  background-color: purple;
+}
+
+.unlike-button {
+  background-color: blueviolet;
+  border-radius: 5px;
+  color: #fff;
+  margin-right: 20px;
+  padding: 5px;
+  padding-top: 5px;
+  border: blueviolet;
+}
+
+.unlike-button:hover {
+  background-color: purple;
+}
+
+.card-body {
+  background-color: #fff;
+}
+
+.card-title {
+  background-color: #fff;
+}
+
+.card-text {
+  background-color: #fff;
+}
+
+.card {
+  margin: 10px;
+  border-radius: 50px;
+  max-width: 50vw;
+}
+
+.toast-success {
+  background-color: blueviolet !important;
+}
+.toast-message {
+  background-color: blueviolet !important;
+}
+
+.hearticon {
+  background-color: #fff;
+  color: blueviolet;
+}
